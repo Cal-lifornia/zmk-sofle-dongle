@@ -158,9 +158,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB TOG
-  - '&rgb_up RGB_EFR'
-  - '&rgb_up RGB_EFF'
+  - '&rgb_ud RGB_TOG'
+  - '&rgb_ud RGB_EFR'
+  - '&rgb_ud RGB_EFF'
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-caps$$
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
@@ -171,8 +171,8 @@ layers:
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB HUD
-  - RGB HUI
+  - '&rgb_ud RGB_HUD'
+  - '&rgb_ud RGB_HUI'
   - '&rgb_ud RGB_SAD'
   - '&rgb_ud RGB_SAI'
   - {t: '$$mdi:transfer$$', type: trans}
